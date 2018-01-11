@@ -1,0 +1,26 @@
+.btn-favorites{
+	height: 30px;
+	width: 30%;
+	font-size: 14px;
+	outline: none;
+	background: #f6b20e;
+/*	border: 1px solid #bf8b0c;*/
+	transition: all .3s linear;
+	color: #fff;
+	border-radius: 10px;
+	border: none;
+}
+
+.btn-favorites:hover{
+	background: #d7232d;
+	text-decoration: underline;
+}
+
+.dv-favorites-hidden{
+	display: none;
+}
+
+.dv-favorites-hidden img{
+	width: 100%;
+	height: 200px;
+}
